@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/drawable/background_element_2.xml" value="0.155" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/drawable/custom_button.xml" value="0.155" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/drawable/custom_button2.xml" value="0.155" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/drawable/ic_add.xml" value="0.155" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.155" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/drawable/ic_done.xml" value="0.155" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/drawable/ic_launcher_background.xml" value="0.155" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/drawable/ic_splitxlogovector.xml" value="0.155" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/drawable/menu_bar.xml" value="0.155" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/drawable/middle_rectange.xml" value="0.155" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/drawable/phone.xml" value="0.155" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/drawable/white_background.xml" value="0.2585" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/layout-land/login.xml" value="0.16331994645247658" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/layout/activity_ower_list.xml" value="0.2" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/layout/activity_payable.xml" value="0.2" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/layout/activity_profile.xml" value="0.16486486486486487" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/layout/dashboard.xml" value="0.152" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/layout/list_input_card.xml" value="0.152" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/layout/login.xml" value="0.176" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/layout/signup.xml" value="0.2" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/layout/splashscreen.xml" value="0.16486486486486487" />
+        <entry key="..\:/Major Project/final project/SplitX/app/src/main/res/layout/splashscreen2.xml" value="0.15574324324324323" />
+        <entry key="..\:/Program Files/SplitX/app/src/main/res/drawable/button.xml" value="0.2595" />
+        <entry key="..\:/Program Files/SplitX/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Program Files/SplitX/app/src/main/res/layout/dashboard.xml" value="0.22826086956521738" />
+        <entry key="..\:/Program Files/SplitX/app/src/main/res/layout/login.xml" value="0.2" />
+        <entry key="..\:/Program Files/SplitX/app/src/main/res/layout/signup.xml" value="0.24010416666666667" />
+        <entry key="..\:/SplitX/app/src/main/res/layout-land/login.xml" value="0.1371252204585538" />
+        <entry key="..\:/SplitX/app/src/main/res/layout/activity_ower_list.xml" value="0.16666666666666666" />
+        <entry key="..\:/SplitX/app/src/main/res/layout/activity_payable.xml" value="0.12" />
+        <entry key="..\:/SplitX/app/src/main/res/layout/activity_profile.xml" value="0.16197916666666667" />
+        <entry key="..\:/SplitX/app/src/main/res/layout/dashboard.xml" value="0.1" />
+        <entry key="..\:/SplitX/app/src/main/res/layout/list_input_card.xml" value="0.10666666666666667" />
+        <entry key="..\:/SplitX/app/src/main/res/layout/login.xml" value="0.16197916666666667" />
+        <entry key="..\:/SplitX/app/src/main/res/layout/signup.xml" value="0.22" />
+        <entry key="..\:/final project/SplitX/app/src/main/res/layout/activity_ower_list.xml" value="0.10702341137123746" />
+        <entry key="..\:/final project/SplitX/app/src/main/res/layout/activity_payable.xml" value="0.13333333333333333" />
+        <entry key="..\:/final project/SplitX/app/src/main/res/layout/activity_profile.xml" value="0.10810810810810811" />
+        <entry key="..\:/final project/SplitX/app/src/main/res/layout/activity_testing.xml" value="0.10810810810810811" />
+        <entry key="..\:/final project/SplitX/app/src/main/res/layout/dashboard.xml" value="0.14222972972972972" />
+        <entry key="..\:/final project/SplitX/app/src/main/res/layout/list_input_card.xml" value="0.23006756756756758" />
+        <entry key="..\:/final project/SplitX/app/src/main/res/layout/login.xml" value="0.14222972972972972" />
+        <entry key="..\:/final project/SplitX/app/src/main/res/layout/signup.xml" value="0.14222972972972972" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
