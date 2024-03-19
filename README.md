@@ -1,6 +1,6 @@
 # splitX
 
-apk: https://tinyurl.com/25zvrx43
+Download App: https://tinyurl.com/25zvrx43
 
 ## Overview
 
